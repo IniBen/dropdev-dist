@@ -1,0 +1,1 @@
+import{a as t}from"./dropnav.d2ca04f4.js";import{p as n,j as r,y as a,M as s,o as c}from"./entry.124393a7.js";import"./nuxt-link.f494dfce.js";const p={};function _(o,d,l,m,f,i){const e=t;return c(),r("div",null,[a(e),s(o.$slots,"default")])}const h=n(p,[["render",_]]);export{h as default};
